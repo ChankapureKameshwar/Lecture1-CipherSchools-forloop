@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  //iterating the same number using for loop
+  for(int i=0;i<=100;i++)
+  {
+    cout<<"1"<<endl;
+  }
+  //iterating the incremental values using for loop
+  for(int i=0;i<=100;i++)
+  {
+    cout<<i<<endl;
+  }
+}
